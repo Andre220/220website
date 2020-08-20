@@ -1,4 +1,3 @@
-
 function setDates()
 {
     var currentYear = new Date().getFullYear();
